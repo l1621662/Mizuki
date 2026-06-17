@@ -11,7 +11,7 @@ export const pioConfig: PioConfig = {
 	hiddenOnMobile: true, // 默认在移动设备上隐藏
 	hideAboutMenu: false, // 隐藏内置 About 菜单按钮
 	dialog: {
-		welcome: "欢迎来到1145の小站!", // 欢迎词
+		welcome: "欢迎来到1621662の小站!", // 欢迎词
 		touch: [
 			"你要干甚么╰（‵□′）╯",
 			"Stop touching me!",
