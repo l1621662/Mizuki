@@ -1,9 +1,9 @@
 name: Build and Deploy to Server
 
-on:
+于:
   push:
-    branches:
-      - main
+    分支:
+      - master
 
 jobs:
   build-and-deploy:
